@@ -32,7 +32,7 @@ https://feeds.soundcloud.com/users/soundcloud:users:575866935/sounds.rss
   
   
 **If you don't have Apple Podcasts installed**, you will get an error message, probably similar to this:  
-![[Podcasts-app-no-longer-on-iPhone-error_20210728203115.png|300]]  
+![[Podcasts-app-no-longer-on-iPhone-error_20210728203115.png]]  
   
 So, the easiest thing to do is probably just install Apple Podcasts. (There are other apps I like better, but Apple Podcasts works well enough to start with.)   
   
